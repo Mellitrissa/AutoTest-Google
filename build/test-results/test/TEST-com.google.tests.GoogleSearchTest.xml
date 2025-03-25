@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.google.tests.GoogleSearchTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-03-25T09:23:13" hostname="MacBook-Air-Ulia.local" time="8.414">
+  <properties/>
+  <testcase name="Проверка поиска в Google" classname="com.google.tests.GoogleSearchTest" time="8.414"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[мар. 25, 2025 12:23:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 134, returning the closest version; found: 133; Please update to a Selenium version that supports CDP version 134
+]]></system-err>
+</testsuite>
